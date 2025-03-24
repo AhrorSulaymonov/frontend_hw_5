@@ -111,6 +111,7 @@
   letter-spacing: 0%;
   z-index: 1;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .middile-heartbeat {
